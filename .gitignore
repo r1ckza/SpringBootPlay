@@ -2,3 +2,4 @@
 build/
 out/
 src/main/generated/
+.DS_Store
